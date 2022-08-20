@@ -1,2 +1,3 @@
-# Simplyfy-Dot-Cursor
-Free cursor Simplyfy Dot
+# Simplyfy Dot
+Free Windows Cursor by dpcdpc11
+
